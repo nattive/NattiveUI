@@ -1,0 +1,35 @@
+{
+  "name": "restyle-nattive-ui",
+  "version": "1.0.1-beta",
+  "description": "A React Native UI package made with @shopify/restyle, providing reusable, themeable, and responsive components.",
+  "main": "index.ts",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nattive/NattiveUI.git"
+  },
+  "keywords": [
+    "react-native",
+    "ui",
+    "components",
+    "restyle",
+    "shopify",
+    "design-system",
+    "theme",
+    "styled-components",
+    "nattive",
+    "native-ui",
+    "responsive",
+    "typescript",
+    "mobile",
+    "react"
+  ],
+  "author": "Nattive labs",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nattive/NattiveUI/issues"
+  },
+  "homepage": "https://github.com/nattive/NattiveUI#readme"
+}
